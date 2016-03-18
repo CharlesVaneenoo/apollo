@@ -127,3 +127,6 @@ altar :chaos, entrance_altar: 2461, crafting: 2487, portal: 2474,
 
 altar :death, entrance_altar: 2462, crafting: 2488, portal: 2475,
               entrance: [2208, 4830], exit: [3222, 3222], altar_centre: [2205, 4836]
+
+altar :blood, entrance_altar: 2449, crafting:
+altar :astral, entrance_altar: , crafting:

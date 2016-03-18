@@ -164,4 +164,5 @@ tiara :nature_tiara, tiara_id: 5541, altar: 2460, talisman: 1462, bitshift: 8, e
 tiara :chaos_tiara,  tiara_id: 5543, altar: 2461, talisman: 1452, bitshift: 9, experience: 42.5
 tiara :law_tiara,    tiara_id: 5545, altar: 2459, talisman: 1458, bitshift: 7, experience: 47.5
 tiara :death_tiara,  tiara_id: 5548, altar: 2462, talisman: 1456, bitshift: 10, experience: 50
-# TODO: there are 2 other altars, which probably just aren't spawned on the map
+tiara :blood_tiara,  tiara_id: 5549, altar: 2449, talisman:1450 , bitshift: 11, experience: 52.5
+tiara :astral_tiara, tiara_id: 9106, altar: , talisman: , bitshift: 12, experience: 55
